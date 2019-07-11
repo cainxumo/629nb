@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background.jpg</file>
+        <file>planet1.png</file>
+        <file>planet2.png</file>
+        <file>planet3.png</file>
+        <file>planet4.png</file>
+        <file>planet5.png</file>
+        <file>background2.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>01.png</file>
+        <file>02.png</file>
+        <file>03.png</file>
+        <file>04.png</file>
+        <file>05.png</file>
+        <file>06.png</file>
+        <file>menu.jpg</file>
+        <file>earth.jpg</file>
+        <file>musical.jpg</file>
+        <file>title.png</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+    </qresource>
+</RCC>
